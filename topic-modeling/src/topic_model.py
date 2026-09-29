@@ -31,7 +31,7 @@ MAX_PERCENTAGE = 0.5
 DROP_DUPLICATES = True
 
 PROJECT_DIR = Path(__file__).resolve().parents[1]
-DATA_DIR = PROJECT_DIR / "data" / "raw"
+DATA_DIR = PROJECT_DIR.parent / "data"
 MODEL_DIR = PROJECT_DIR / "models" / "lda"
 SCORES_DIR = PROJECT_DIR / "outputs" / "scores"
 EVALUATION_DIR = PROJECT_DIR / "outputs" / "evaluation"
