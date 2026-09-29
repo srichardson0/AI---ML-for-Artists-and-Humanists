@@ -1,0 +1,6 @@
+data/raw/*.csv
+data/raw/archive/*.csv
+models/
+outputs/
+__pycache__/
+notebooks/.ipynb_checkpoints/
