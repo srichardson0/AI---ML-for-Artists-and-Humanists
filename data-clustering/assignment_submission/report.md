@@ -4,9 +4,9 @@ DATA 78000, AI and Machine Learning for Artists and Humanists
 
 Data Clustering Assignment
 
-[Link to Assignment Github]()
+[Link to Assignment Github][githubRepoLink]
 
-## 1. Research question
+## 1. Research question(s)
 
 There is an old line in Congress that members are either workhorses or showhorses. Workhorses do the slow committee work and actually get bills passed. Showhorses chase attention. I wanted to see whether that split shows up in the data on its own. So I asked two questions.
 
@@ -97,3 +97,6 @@ The biggest cluster is labeled "Law," but only about half of its members are law
 
 The short answer is mostly no. The two big background clusters are almost identical in effectiveness. Lawyers don't outperform businesspeople, and prior state legislative experience doesn't seem to matter much here either. The small Army-veteran cluster is the one exception. Its members fall below expectations on average, only 7% are overachievers, and 60% are late starters. But this cluster is mostly Republican and arrived later in life, so I can't tell whether military service has anything to do with it. 
 
+
+
+[githubRepoLink]: https://github.com/srichardson0/AI---ML-for-Artists-and-Humanists/tree/main/data-clustering/assignment_submission
