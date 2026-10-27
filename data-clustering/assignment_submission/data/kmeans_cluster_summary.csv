@@ -1,0 +1,4 @@
+kmeans_type,members,les_ratio,raw_les,extremity,age_at_entry,pct_democrat,pct_majority,congresses_served
+Overachievers,207,2.295,1.764,0.321,49.266,55.072,57.825,3.986
+Early starters,533,0.84,0.884,0.357,40.092,52.533,55.439,4.403
+Late starters,494,0.777,0.738,0.509,54.144,34.008,59.89,4.387
