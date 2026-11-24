@@ -1,0 +1,49 @@
+idx,image_path,predicted,verdict,note
+0,images_123rf/B/B7/72565724-frustrated-superhero-with-a-lot-of-flags.jpg,nothing,missed,"bundle of hand flags (Iceland, UK, Greece...) on superhero; nothing found"
+1,images_123rf/0/0D/54729679-young-woman-and-many-hands-with-different-country-flags-painted-on-them-isolated-on-white.jpg,nothing,missed,flags painted on hands; none found
+2,images_123rf/4/4F/16190866-chef-holding-flags.jpg,"Brazil 0.94, Switzerland 0.91, Germany 0.90, Canada 0.48",missed,"Brazil, Germany, Switzerland right; England, Portugal, France, Argentina missed"
+3,images_123rf/B/BD/185776823-a-woman-in-hiking-outfit-standing-on-a-barren-pathway-along-annapurna-circuit-trek-there-are-few.jpg,nothing,no_flag_ok,"Himalayan prayer flags, no national flag"
+4,images_123rf/0/01/158270694-young-stylish-beautiful-african-american-woman-in-street-wearing-fashion-outfit-coat-and-eyeglasses.jpg,nothing,missed,small distant flags on poles
+5,images_123rf/4/49/55303582-young-man-and-many-hands-with-different-country-flags-painted-on-them-isolated-on-white.jpg,nothing,missed,flags painted on hands; none found
+6,images_123rf/D/D0/103318685-american-teacher-with-american-flags-holds-alarm-clock-american-educational-system-concept-man.jpg,USA 0.91,missed,small USA flag right; the large US flag draped over him missed
+7,images_123rf/7/74/35901641-santa-carries-his-red-bag-and-smiles-against-screen-collage-showing-international-flags.jpg,nothing,missed,video-wall collage of dozens of flags; none found
+8,images_123rf/A/A2/72568492-lucky-superhero-with-a-lot-of-flags.jpg,nothing,missed,"bundle of hand flags (UK, Belgium, Iceland); nothing found"
+9,images_123rf/0/0D/142113169-photo-of-pretty-dark-skin-lady-showing-holiday-painted-eggs-colorful-decor-flags-advice-choose-pink.jpg,nothing,no_flag_ok,"party bunting, no national flag"
+10,images_123rf/A/A7/95514052-handsome-man-with-beard-holding-many-flags-and-touching-on-transparent-screen.jpg,nothing,missed,UK and other flags in hand; nothing found
+11,images_123rf/9/91/79554239-digital-composite-of-main-language-flags-near-young-businesswoman-pink-background.jpg,"Spain 0.98, UK 0.46, Germany 0.31",missed,"Spain, UK, Germany right; France and Italy missed"
+12,images_123rf/A/AA/167591475-portrait-of-a-young-woman-wearing-headphones-holding-a-notebook-and-looking-up-at-the-flags-of.jpg,"UK 0.95, Uruguay 0.76",wrong_country,"UK right; Greek flag called Uruguay (lookalike stripes); Spain, Japan, France, Germany, China missed"
+13,images_123rf/E/E5/158264745-young-stylish-beautiful-african-american-woman-in-street-wearing-fashion-outfit-coat-against-flags.jpg,USA 0.36,unclear,tiny distant flags at top edge; USA 0.36 can't be verified
+14,images_123rf/7/73/160573395-double-exposure-of-cute-little-male-pilot-giving-a-respectful-hand-gesture-with-national-flags-of.jpg,nothing,missed,huge US flag in double-exposure background missed
+15,images_123rf/4/48/95521002-handsome-man-with-beard-holding-many-flags-and-making-a-deal.jpg,UK 0.95,correct,UK flag in hand
+16,images_123rf/5/52/54729996-young-woman-and-many-hands-with-different-country-flags-painted-on-them-isolated-on-white.jpg,nothing,missed,flags painted on hands; none found
+17,images_123rf/B/B9/72566851-handsome-man-with-beard-holding-many-flags-and-pointing-down.jpg,UK 0.96,correct,UK flag in hand
+18,images_123rf/5/5F/121283972-businessman-with-national-flags.jpg,"China 0.69, Israel 0.62, USA 0.27",missed,China and USA right (USA only 0.27); left edge called Israel (plausible); UK and Russia behind head missed
+19,images_123rf/D/D3/72533833-superhero-with-a-lot-of-flags-making-bad-signal.jpg,Bermuda 0.30,wrong_country,bundle of UK/Sweden/other flags labelled Bermuda 0.30
+20,images_123rf/6/61/12721589-young-woman-with-english-and-dutch-little-flag-with-focus-on-flags.jpg,UK 0.97,missed,UK right; Dutch flag beside it missed
+21,images_123rf/7/7F/56620324-attractive-blond-girl-waving-checkered-race-flags-isolated-on-white-background.jpg,USA 0.57,false_positive,checkered racing flag called USA 0.57
+22,images_123rf/2/29/166789090-portrait-of-a-smiling-casual-young-woman-holding-british-and-irish-flags-isolated-over-white.jpg,nothing,missed,Irish and UK flags in hand; nothing found
+23,images_123rf/4/4C/42426974-doctor-with-syringe-in-hands-and-usa-states-flags-on-background-jolly-roger.jpg,nothing,no_flag_ok,Jolly Roger background; not a national flag
+24,images_123rf/B/B6/57231842-close-up-picture-of-french-boy-with-flags-on-cheeks-hiding-behind-flags.jpg,"USA 0.69, UK 0.53",missed,UK right; USA box covers a bundle with Russia/France; French face paint missed
+25,images_123rf/4/43/44391967-happy-pretty-brunette-showing-tablet-computer-against-international-flags.jpg,nothing,missed,stream of tiny flags from tablet; none found
+26,images_123rf/1/13/64985040-young-woman-with-flags-of-english-speaking-countries.jpg,"UK 0.99, USA 0.96",missed,USA and UK right; Australia missed
+27,images_123rf/A/A5/178951670-man-with-sunglasses-in-front-of-a-medieval-building-with-plants-and-flags.jpg,"Others 0.83, Others 0.54",unclear,small hanging flags on building labelled Others; can't tell which
+28,images_123rf/7/7E/76517667-young-american-businessman-wearing-white-shirt-black-tie-standing-outside-vintage-office-building.jpg,nothing,missed,US flags on building behind him missed
+29,images_123rf/B/B6/72533836-handsome-man-with-beard-holding-many-flags-and-making-a-deal.jpg,UK 0.84,correct,UK flag in hand (French flag mostly hidden)
+30,images_123rf/A/AE/160160905-young-professional-african-american-videographer-holding-professional-camera-with-nigerian-flags-in.jpg,nothing,missed,Nigerian flags (green-white-green) held at waist missed
+31,images_123rf/E/EF/186866592-july-4th-excited-little-girl-holding-flags.jpg,USA 0.95,correct,US flag worn as cape
+32,images_123rf/0/04/184238067-photo-of-pretty-girl-hand-near-mouth-say-secret-gossip-look-decor-flags-isolated-on-pink-color.jpg,nothing,no_flag_ok,"Easter bunting, no national flag"
+33,images_123rf/3/35/42369380-children-with-american-flags-against-serene-beach-landscape.jpg,"USA 0.97, USA 0.96, USA 0.96, USA 0.94",correct,"four US flags, all found"
+34,images_123rf/7/73/177798601-thoughtful-young-girl-holds-flags-in-hands-looks-away-with-pensive-expression-studying-languages.jpg,"UK 0.95, Germany 0.83",correct,UK and Germany found (US flag mostly hidden)
+35,images_123rf/4/46/38150465-little-girl-holding-two-different-flags-on-a-stick.jpg,USA 0.97,correct,US flag found; other is a plain pennant
+36,images_123rf/1/18/72566684-ruined-handsome-man-with-beard-holding-many-flags-and-looking-money-in-their-pockets.jpg,"UK 0.50, Bermuda 0.26",wrong_country,UK right but also labelled Bermuda 0.26; French flag missed
+37,images_123rf/0/07/79429828-digital-composite-of-main-language-flags-around-young-woman-with-a-idea-field-background.jpg,Benin 0.48,wrong_country,"German/Italian flags labelled Benin 0.48; Spain, UK, France missed"
+38,images_123rf/6/6B/195897951-beautiful-young-woman-with-racing-flags-on-color-background.jpg,nothing,no_flag_ok,"checkered racing flag, correctly ignored"
+39,images_123rf/6/67/130104796-teen-boy-holds-the-flags-of-the-russia-and-kazakhstan.jpg,"Kazakhstan 0.95, Slovenia 0.91",wrong_country,Kazakhstan right; Russian flag called Slovenia 0.91 (lookalike)
+40,images_123rf/B/B3/167882366-middle-aged-asian-businessman-wearing-a-mask-and-using-a-smartphone-under-various-national-flags.jpg,"USA 0.69, UK 0.54",unclear,row of flags on poles; USA/UK boxes too small to verify
+41,images_123rf/1/1D/188779480-glad-adolescent-korean-woman-student-hold-different-flags-at-table-with-computer-with-empty-screen.jpg,"Japan 0.59, USA 0.56",missed,Japan right; one USA box spans USA+UK+Germany; France missed
+42,images_123rf/5/55/72568210-handsome-man-with-beard-holding-many-flags-and-presenting-something.jpg,UK 0.43,correct,UK flag in hand
+43,images_123rf/9/95/139814420-red-haired-plump-woman-holding-finlad-and-american-flags-in-front-of-her.jpg,"USA 0.97, Finland 0.90",correct,USA and Finland both right
+44,images_123rf/7/79/132309073-african-student-male-posed-with-backpack-and-school-items-on-yard-of-university-against-flags-of.jpg,nothing,missed,small distant flags on right missed
+45,images_123rf/2/26/85787443-south-asian-indian-girl-holding-two-flags-of-india.jpg,"India 0.88, India 0.70",correct,two Indian flags
+46,images_123rf/D/D6/42426978-doctor-with-syringe-in-hands-and-usa-states-flags-on-background-montana.jpg,nothing,no_flag_ok,"Montana state flag; not a class, correctly ignored"
+47,images_123rf/4/4A/42427633-doctor-with-syringe-in-hands-and-usa-states-flags-on-background-new-hampshire.jpg,nothing,no_flag_ok,"New Hampshire state flag; not a class, correctly ignored"
